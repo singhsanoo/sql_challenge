@@ -50,13 +50,13 @@ To create a visualization of the data in Jupyter NB, following steps are prefome
 
 ## Files
 
-* [Image File](sql_challenge/employee_db_ERD.png) showing ERD.
+* [Image File](employee_db_ERD.png) showing ERD.
 
-* [Create Table](sql_challenge/employee_table_sch.sql) for table schemata.
+* [Create Table](employee_table_sch.sql) for table schemata.
 
-* [SQL Query](sql_challenge/queries.sql) for data analysis.
+* [SQL Query](queries.sql) for data analysis.
 
-* [Jupyter notebook](sql_challenge/sqlalchemy.ipynb) for visual analysis.
+* [Jupyter notebook](sqlalchemy.ipynb) for visual analysis.
 
 
 
